@@ -1,1 +1,1 @@
-test
+<a href="responsivemethods">link</a>
